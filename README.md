@@ -5,3 +5,9 @@ This little tool `extract.py` will parse PDF's from Neuberger Berman and drop ou
 
 
 Drop PDFs in the directoyr and run `extract.py`
+
+
+Institutions:
+
+- [x] Neuberger Berman
+- [ ] Fidelity (TODO)
